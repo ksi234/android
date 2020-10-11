@@ -35,3 +35,7 @@ All supported devices are built weekly and periodically as changes are committed
 You can view the current build statuses at [LineageOS Jenkins](https://jenkins.lineageos.org/).
 
 Builds produced weekly by the buildbot can be downloaded from [LineageOS downloads](https://download.lineageos.org/).
+
+
+Also Add the submitting buttin to it.
+For clarification itself.
